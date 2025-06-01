@@ -1,0 +1,31 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+}
+
+header{
+    background-color: lightcyan;
+}
+
+nav{
+    background-color: rgb(84, 95, 116);
+}
+
+h1{
+    background-color: rgb(189, 98, 98);
+    font-size: 25px;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: blueviolet;
+}
+
+li{
+    text-align: right;
+    display: inline-block;
+    height: 30px;
+}
+
+p{
+    line-height: 30px;
+}
+
